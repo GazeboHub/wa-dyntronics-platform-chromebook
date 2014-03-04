@@ -1,4 +1,5 @@
-gkm-platform-chromebook-ws
-==========================
+Workspace for GKM Dyntronics Chromebook platform support
+========================================================
+(wa-dyntronics-platform-chromebook)
+----------------------------------
 
-Workspace for GKM Chromebook platform support
