@@ -1,5 +1,5 @@
 <map version="0.9.0"><attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node TEXT="Chromebook Platform Review Nr. 1&#10;Edition 3&#10;2 March 2014&#10;&#10;Sean Champ&#10;Gazebo Project&#10;KM Work Area" ID="Freemind_Link_1"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Concepts" ID="Freemind_Link_2"  POSITION="right"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Affordable Computing" ID="Freemind_Link_3"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="idea"/>
+<node TEXT="Chromebook Platform Review Nr. 1&#10;Edition 4&#10;5 March 2014&#10;&#10;Sean Champ&#10;Gazebo Project&#10;KM Work Area" ID="Freemind_Link_1"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Concepts" ID="Freemind_Link_2"  POSITION="right"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Affordable Computing" ID="Freemind_Link_3"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="idea"/>
 <icon BUILTIN="itmz-hand-thumb-up"/>
 <node TEXT="Affordable platform" ID="Freemind_Link_4"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-clients"/>
 <icon BUILTIN="itmz-icon-data"/>
@@ -42,7 +42,7 @@
 <node TEXT="ChromeOS" ID="Freemind_Link_23"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Branded, commercially supported release of ChromiumOS" ID="Freemind_Link_24" LINK="http://www.chromium.org/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
 </node>
-<node TEXT="" ID="Freemind_Link_392"  POSITION="right"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><attribute NAME="Floating" VALUE="{1982, -3962}"/></node>
+<node TEXT="" ID="Freemind_Link_457"  POSITION="right"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><attribute NAME="Floating" VALUE="{1982, -3962}"/></node>
 <node TEXT="&quot;First Run&quot; Notes" ID="Freemind_Link_25"  POSITION="right"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Network availability" ID="Freemind_Link_26"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-flash"/>
 <node TEXT="Install updates during &quot;First Run,&quot;&#10;for optimal functionality in &quot;Second Run&quot;" ID="Freemind_Link_27"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Advisories" ID="Freemind_Link_28"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="May affect responsiveness of other network-based features, while the platform software updates are downloading" ID="Freemind_Link_29"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 <node TEXT="Update process may require system reboot, after updates are installed" ID="Freemind_Link_30"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
@@ -55,7 +55,7 @@
 </node>
 <node TEXT="Chrome OS is a multi-user OS" ID="Freemind_Link_35"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-flash"/>
 <icon BUILTIN="idea"/>
-<arrowlink COLOR="#47B247" DESTINATION="Freemind_Link_32" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_505" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /><node TEXT="Usage Tip: User accounts can be added from the initial ChromeOS login screen" ID="Freemind_Link_36"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<arrowlink COLOR="#47B247" DESTINATION="Freemind_Link_32" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_463" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /><node TEXT="Usage Tip: User accounts can be added from the initial ChromeOS login screen" ID="Freemind_Link_36"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
 </node>
 <node TEXT="Developer question: Does ChromeOS use anything similar to Linux PAM? " ID="Freemind_Link_37"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-clients"/>
@@ -211,7 +211,7 @@
 <attribute NAME="Callout" VALUE="{-349, -308}"/><node TEXT="Keyword: Ethics" ID="Freemind_Link_189"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
 </node>
 <node TEXT="Keyword: Nonpartisan" ID="Freemind_Link_190"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
-<arrowlink COLOR="#FFB2B2" DESTINATION="Freemind_Link_189" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_506" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
+<arrowlink COLOR="#FFB2B2" DESTINATION="Freemind_Link_189" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_464" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
 <node TEXT="Concept: Commercialism" ID="Freemind_Link_191"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
 </node>
 <node TEXT="Concept: DIY computing systems design" ID="Freemind_Link_192"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
@@ -243,7 +243,7 @@
 <attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{-291, -274}"/></node>
 <node TEXT="Context: Lifestyle economy, ethically" ID="Freemind_Link_155"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-data"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="sidebar: Thoreau's social commentary, in the book, Life Without Principle" ID="Freemind_Link_156"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="History" ID="Freemind_Link_157"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><arrowlink COLOR="#47B247" DESTINATION="Freemind_Link_165" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_507" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
+<node TEXT="sidebar: Thoreau's social commentary, in the book, Life Without Principle" ID="Freemind_Link_156"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="History" ID="Freemind_Link_157"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><arrowlink COLOR="#47B247" DESTINATION="Freemind_Link_165" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_465" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
 <node TEXT="Ethics" ID="Freemind_Link_158"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 <node TEXT="Community" ID="Freemind_Link_159"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 <node TEXT="Humanities studies" ID="Freemind_Link_160"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
@@ -421,221 +421,242 @@
 <node TEXT="BPMN web site, Object Management Group (OMG)" ID="Freemind_Link_305" LINK="http://www.bpmn.org/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
+<node TEXT="See also" ID="Freemind_Link_306"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="EmForge Mylyn Provider" ID="Freemind_Link_307" LINK="http://www.emforge.net/web/emforge-mylyn-provider"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="To Do: Make it a project &#x2013; a portal application" ID="Freemind_Link_306"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+</node>
+<node TEXT="To Do: Make it a project &#x2013; a portal application" ID="Freemind_Link_308"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="messagebox_warning"/>
-<attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{0, 186}"/><node TEXT="Concept: Mobile tooling integrating with EmForge developer workflow components" ID="Freemind_Link_307"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Tasks" ID="Freemind_Link_308"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Source code editing" ID="Freemind_Link_309"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="JCR oriented content management, as an alternative to the developers wiki" ID="Freemind_Link_310"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="To Do: &quot;Make it a project&quot;" ID="Freemind_Link_311"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
-<icon BUILTIN="itmz-icon-gear"/>
-<attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{244, 80}"/><node TEXT="cf. also JCR4EDA" ID="Freemind_Link_312"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="idea"/>
+<attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{344, 1406}"/><node TEXT="Audience: EDA design workflow." ID="Freemind_Link_309"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-heart"/>
 <icon BUILTIN="itmz-icon-gear"/>
 </node>
-<node TEXT="Focus: Content management" ID="Freemind_Link_313"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Belaying criticism with regards to &quot;Yet another&quot; content management framework, parallel to the OpenCMIS specification" ID="Freemind_Link_314"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-bug"/>
+<node TEXT="Concept: Mobile tooling integrating with EmForge developer workflow components" ID="Freemind_Link_310"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Tasks" ID="Freemind_Link_311"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Source code editing" ID="Freemind_Link_312"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="JCR oriented content management, as an alternative to the developers wiki" ID="Freemind_Link_313"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="To Do: &quot;Make it a project&quot;" ID="Freemind_Link_314"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
+<icon BUILTIN="itmz-icon-gear"/>
+<attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{244, 80}"/><node TEXT="cf. also JCR4EDA" ID="Freemind_Link_315"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="idea"/>
+<icon BUILTIN="itmz-icon-gear"/>
+</node>
+<node TEXT="Focus: Content management" ID="Freemind_Link_316"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Belaying criticism with regards to &quot;Yet another&quot; content management framework, parallel to the OpenCMIS specification" ID="Freemind_Link_317"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-bug"/>
 <icon BUILTIN="group"/>
 </node>
-<node TEXT="Wiki-oriented resource model, extending JCR's tree-oriented and strongly typed resource information model&#10;&#10;Compare/contrast to file-oriented CMIS models" ID="Freemind_Link_315"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
+<node TEXT="Wiki-oriented resource model, extending JCR's tree-oriented and strongly typed resource information model&#10;&#10;Compare/contrast to file-oriented CMIS models" ID="Freemind_Link_318"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="To do: Make that comparison, in real documentation" ID="Freemind_Link_316"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
+<node TEXT="To do: Make that comparison, in real documentation" ID="Freemind_Link_319"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
 <attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{362, 2}"/></node>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="Git in JQuery" ID="Freemind_Link_317"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Must integrate with SSH, cf. SSL asymmetric key architrcture " ID="Freemind_Link_318"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="GitHub uses SSH keys for Git client auth" ID="Freemind_Link_319"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Note: Advisory and practical devlopment platform security" ID="Freemind_Link_320"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Git in JQuery" ID="Freemind_Link_320"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Must integrate with SSH, cf. SSL asymmetric key architrcture " ID="Freemind_Link_321"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="GitHub uses SSH keys for Git client auth" ID="Freemind_Link_322"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Note: Advisory and practical devlopment platform security" ID="Freemind_Link_323"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="Audience: EDA design workflow." ID="Freemind_Link_321"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-heart"/>
-<icon BUILTIN="itmz-icon-gear"/>
 </node>
 </node>
-</node>
-<node TEXT="To do: Move this outline branch into another mind map document" ID="Freemind_Link_342"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="To do: Move this outline branch into another mind map document" ID="Freemind_Link_344"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-document"/>
-<attribute NAME="Callout" VALUE="{-14, 116}"/></node>
-<node TEXT="Primarily cf: Standards for systems architecture and systems modeling " ID="Freemind_Link_322"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<attribute NAME="Callout" VALUE="{-64, -112}"/></node>
+<node TEXT="Primarily cf: Standards for systems architecture and systems modeling " ID="Freemind_Link_324"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="ISO/IEC/IEE 42010" ID="Freemind_Link_323" LINK="http://www.iso-architecture.org/ieee-1471/afs/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="ISO/IEC/IEE 42010" ID="Freemind_Link_325" LINK="http://www.iso-architecture.org/ieee-1471/afs/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-book"/>
-<node TEXT="Confer: Survey of Architecture Frameworks" ID="Freemind_Link_324" LINK="http://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-hat-white"/>
+<node TEXT="Confer: Survey of Architecture Frameworks" ID="Freemind_Link_326" LINK="http://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-hat-white"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="cf. ISO/IEC/IEE 1471" ID="Freemind_Link_325"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="cf. ISO/IEC/IEE 1471" ID="Freemind_Link_327"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-book"/>
-<node TEXT="Earlier edition of the ISO 42010 specification " ID="Freemind_Link_326"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Earlier edition of the ISO 42010 specification " ID="Freemind_Link_328"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
-<node TEXT="Confer" ID="Freemind_Link_327"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-earth"/>
+<node TEXT="Confer" ID="Freemind_Link_329"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-earth"/>
 <icon BUILTIN="itmz-icon-cloud"/>
-<node TEXT="Shames, Peter, and Takahiro Yamada. Reference Architecture for Space Data Systems. 2003" ID="Freemind_Link_328" LINK="http://hdl.handle.net/2014/7541"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="CCSDS. Recommendation for Space Data System Practices, Reference Architecture for Space Data Systems. CCSDS. 2008&#10;&#10;i.e. &quot;Magenta Book&quot;" ID="Freemind_Link_329"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Jackson, Maddalena, et al. Architecting the Human Space Flight Program with Systems Modeling Language (SysML). 2012. NASA JPL" ID="Freemind_Link_330" LINK="http://trs-new.jpl.nasa.gov/dspace/handle/2014/42571"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Shames, Peter, and Takahiro Yamada. Reference Architecture for Space Data Systems. 2003" ID="Freemind_Link_330" LINK="http://hdl.handle.net/2014/7541"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="CCSDS. Recommendation for Space Data System Practices, Reference Architecture for Space Data Systems. CCSDS. 2008&#10;&#10;i.e. &quot;Magenta Book&quot;" ID="Freemind_Link_331"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Jackson, Maddalena, et al. Architecting the Human Space Flight Program with Systems Modeling Language (SysML). 2012. NASA JPL" ID="Freemind_Link_332" LINK="http://trs-new.jpl.nasa.gov/dspace/handle/2014/42571"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="Confer: ISO/IEC/IEEE 42010: Model and Meta Model Matters" ID="Freemind_Link_331" LINK="http://www.iso-architecture.org/ieee-1471/meta/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
+<node TEXT="Confer: ISO/IEC/IEEE 42010: Model and Meta Model Matters" ID="Freemind_Link_333" LINK="http://www.iso-architecture.org/ieee-1471/meta/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="Confer: Modelio" ID="Freemind_Link_332"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
-<node TEXT="Modeliosoft" ID="Freemind_Link_333" LINK="http://www.modeliosoft.com/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Confer: Modelio" ID="Freemind_Link_334"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
+<node TEXT="Modeliosoft" ID="Freemind_Link_335" LINK="http://www.modeliosoft.com/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="group"/>
 </node>
-<node TEXT="Modelio at ENOSYS Project Official Web Site" ID="Freemind_Link_334"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="group"/>
+<node TEXT="Modelio at ENOSYS Project Official Web Site" ID="Freemind_Link_336"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="group"/>
 <icon BUILTIN="itmz-icon-earth"/>
 </node>
-<node TEXT="Modelio Community Edition" ID="Freemind_Link_335" LINK="http://www.modeliosoft.com/en/download/free-downloads.html"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Modelio Community Edition" ID="Freemind_Link_337" LINK="http://www.modeliosoft.com/en/download/free-downloads.html"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-signpost"/>
 </node>
-<node TEXT="Modelio SysML support: Modelio SysML Architect" ID="Freemind_Link_336" LINK="http://www.modeliosoft.com/en/modules/sysml-architect.html"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
+<node TEXT="Modelio SysML support: Modelio SysML Architect" ID="Freemind_Link_338" LINK="http://www.modeliosoft.com/en/modules/sysml-architect.html"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="cf: SysML" ID="Freemind_Link_337"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
+<node TEXT="cf: SysML" ID="Freemind_Link_339"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
 <icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="Resources" ID="Freemind_Link_338"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Web Site: SysML Open Source Specification Project" ID="Freemind_Link_339" LINK="http://www.sysml.org/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-earth"/>
+<node TEXT="Resources" ID="Freemind_Link_340"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Web Site: SysML Open Source Specification Project" ID="Freemind_Link_341" LINK="http://www.sysml.org/"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-earth"/>
 </node>
-<node TEXT="Book: Friedenthal, Sanford, Alan Moore, and Rick Steiner. A Practical Guide to SysML. 2008. Elsevier" ID="Freemind_Link_340"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-book"/>
-</node>
-</node>
+<node TEXT="Book: Friedenthal, Sanford, Alan Moore, and Rick Steiner. A Practical Guide to SysML. 2008. Elsevier" ID="Freemind_Link_342"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-book"/>
 </node>
 </node>
 </node>
-<node TEXT="To do: Search for a SysML model library onto ISO 40210" ID="Freemind_Link_341"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+</node>
+</node>
+<node TEXT="To do: Search for a SysML model library onto ISO 40210" ID="Freemind_Link_343"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="messagebox_warning"/>
 <attribute NAME="Start" VALUE="Mar 2, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{259, 126}"/></node>
 </node>
 </node>
 </node>
+<node TEXT="To Do: Design GPortal Productivity Work Area" ID="Freemind_Link_345"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Start" VALUE="Mar 4, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{261, 1783}"/><node TEXT="Study Areas" ID="Freemind_Link_346"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Conventional PIM Models" ID="Freemind_Link_347"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Calendar" ID="Freemind_Link_348"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Task list" ID="Freemind_Link_349"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Contact list" ID="Freemind_Link_350"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+</node>
+<node TEXT="Augmentative PIM-related components " ID="Freemind_Link_351"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Map" ID="Freemind_Link_352"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Itinerary" ID="Freemind_Link_353"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Conference schedule" ID="Freemind_Link_354"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+</node>
+<node TEXT="Project Types" ID="Freemind_Link_355"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Software development project types" ID="Freemind_Link_356"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Content development project types" ID="Freemind_Link_357"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+</node>
+<node TEXT="Project Management Models" ID="Freemind_Link_358"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Simple model from Scott Belsky's book, Making Ideas Happen" ID="Freemind_Link_359"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Scrum Methodology" ID="Freemind_Link_360"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+</node>
+<node TEXT="Business Process Modelinf" ID="Freemind_Link_361"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="BPMN" ID="Freemind_Link_362"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="(Thesis item) &#10;Business Process Profile for SysML" ID="Freemind_Link_363"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
-<node TEXT="Note: Some editions of the app may not be able to operate on the locally synchronized Google Drive directories. Use the local &quot;Downloads&quot; directory, or a subdirectory, instead" ID="Freemind_Link_343"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Note: SSH Public keys; Github" ID="Freemind_Link_344"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Alternately, the crosh terminal emulator includes SSH client functionality" ID="Freemind_Link_345"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><arrowlink COLOR="#47B247" DESTINATION="Freemind_Link_346" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_508" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
-</node>
-<node TEXT="Developers Tip: Using the Chrome OS developer shell, crosh" ID="Freemind_Link_346"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="Chrome extension" ID="Freemind_Link_347"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Interface resembles a terminal emulator" ID="Freemind_Link_348"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="The crosh 'help' shell command lists the available shell commands" ID="Freemind_Link_349"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Features" ID="Freemind_Link_350"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="SSH client" ID="Freemind_Link_351"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="ICMP ping" ID="Freemind_Link_352"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="'top' process monitor" ID="Freemind_Link_353"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-</node>
-<node TEXT="UI Activation: Key combination Ctrl+Alt+T" ID="Freemind_Link_354"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-</node>
-<node TEXT="Developers Tip: Install the Gitgnu app for partial Git functionality on Chromebook" ID="Freemind_Link_355"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
-<node TEXT="Limited functionality.&#10;&#10;One may observe that GitGnu is Chrome app ostensibly implementing the Git SCCM model.&#10;&#10;Alternately: Install Crouton, for a chroot Ubuntu layer on ChromeOS, or install CrUbuntu for a dual-boot ChromeOS/Ubuntu model&#10;" ID="Freemind_Link_356"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Callout" VALUE="{799, -22}"/><node TEXT="Ed. To do: Add nodes to this outline for making reference to resources and useful tutorials for installing Crouton and/or CrUbuntu" ID="Freemind_Link_357"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
-<node TEXT="Academic Tip: Install the MindMeister app for Google Chrome, for structured note taking, brainstorming, and other outlines" ID="Freemind_Link_358"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="pencil"/>
-<node TEXT="Use Case: Develop an outline in &quot;Mind map&quot; format, as for purposes of academic note taking practice, or in thesis development " ID="Freemind_Link_359"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+</node>
+<node TEXT="Note: Some editions of the app may not be able to operate on the locally synchronized Google Drive directories. Use the local &quot;Downloads&quot; directory, or a subdirectory, instead" ID="Freemind_Link_364"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Note: SSH Public keys; Github" ID="Freemind_Link_365"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Alternately, the crosh terminal emulator includes SSH client functionality" ID="Freemind_Link_366"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><arrowlink COLOR="#47B247" DESTINATION="Freemind_Link_367" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_466" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
+</node>
+<node TEXT="Developers Tip: Using the Chrome OS developer shell, crosh" ID="Freemind_Link_367"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Chrome extension" ID="Freemind_Link_368"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Interface resembles a terminal emulator" ID="Freemind_Link_369"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="The crosh 'help' shell command lists the available shell commands" ID="Freemind_Link_370"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Features" ID="Freemind_Link_371"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="SSH client" ID="Freemind_Link_372"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="ICMP ping" ID="Freemind_Link_373"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="'top' process monitor" ID="Freemind_Link_374"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+</node>
+<node TEXT="UI Activation: Key combination Ctrl+Alt+T" ID="Freemind_Link_375"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+</node>
+<node TEXT="Developers Tip: Install the Gitgnu app for partial Git functionality on Chromebook" ID="Freemind_Link_376"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Limited functionality.&#10;&#10;One may observe that GitGnu is Chrome app ostensibly implementing the Git SCCM model.&#10;&#10;Alternately: Install Crouton, for a chroot Ubuntu layer on ChromeOS, or install CrUbuntu for a dual-boot ChromeOS/Ubuntu model&#10;" ID="Freemind_Link_377"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Callout" VALUE="{799, -22}"/><node TEXT="Ed. To do: Add nodes to this outline for making reference to resources and useful tutorials for installing Crouton and/or CrUbuntu" ID="Freemind_Link_378"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
-<node TEXT="Chromecast" ID="Freemind_Link_360"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Ed. To do: &quot;What is Chromecast?&quot;" ID="Freemind_Link_361"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
+<node TEXT="Academic Tip: Install the MindMeister app for Google Chrome, for structured note taking, brainstorming, and other outlines" ID="Freemind_Link_379"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="pencil"/>
+<node TEXT="Use Case: Develop an outline in &quot;Mind map&quot; format, as for purposes of academic note taking practice, or in thesis development " ID="Freemind_Link_380"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+</node>
+</node>
+<node TEXT="Chromecast" ID="Freemind_Link_381"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Ed. To do: &quot;What is Chromecast?&quot;" ID="Freemind_Link_382"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="ksmiletris"/>
 <attribute NAME="Callout" VALUE="{277, -2}"/></node>
 </node>
-<node TEXT="Usage tip: Create recovery media" ID="Freemind_Link_362"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="messagebox_warning"/>
-<node TEXT="To do: Create recovery media for the WheelBook ChromeOS installation" ID="Freemind_Link_472"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{-410, -77}"/></node>
-<node TEXT="Use case:  For remediation of  any unexpected, severe data loss in core ChromeOS files" ID="Freemind_Link_363"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Use case: Complete system reinstallation" ID="Freemind_Link_364"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Alternative: &quot;Powerwash,&quot; via the ChromeOS advanced settings menus" ID="Freemind_Link_365"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Usage tip: Create recovery media" ID="Freemind_Link_383"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="messagebox_warning"/>
+<node TEXT="To do: Create recovery media for the WheelBook ChromeOS installation" ID="Freemind_Link_388"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{-410, -77}"/></node>
+<node TEXT="Use case:  For remediation of  any unexpected, severe data loss in core ChromeOS files" ID="Freemind_Link_384"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Use case: Complete system reinstallation" ID="Freemind_Link_385"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Alternative: &quot;Powerwash,&quot; via the ChromeOS advanced settings menus" ID="Freemind_Link_386"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
-<node TEXT="How to: Refer to documentation at link" ID="Freemind_Link_366" LINK="https://support.google.com/chromebook/answer/1080595"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="How to: Refer to documentation at link" ID="Freemind_Link_387" LINK="https://support.google.com/chromebook/answer/1080595"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
-<node TEXT="ChromeOS as a multi-user OS" ID="Freemind_Link_367"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="group"/>
-<node TEXT="Root user analogy, on ChromeOS: &quot;Owner&quot;&#10;Additional users: &quot;Supervised&quot; users&#10;&#10;See also: Chromebook User Documentation&#10;(To Do)" ID="Freemind_Link_368"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
+<node TEXT="ChromeOS as a multi-user OS" ID="Freemind_Link_389"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="group"/>
+<node TEXT="Root user analogy, on ChromeOS: &quot;Owner&quot;&#10;Additional users: &quot;Supervised&quot; users&#10;&#10;See also: Chromebook User Documentation&#10;(To Do)" ID="Freemind_Link_390"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="messagebox_warning"/>
 <attribute NAME="Callout" VALUE="{-376, -42}"/></node>
-<node TEXT="Question: Does ChromeOS actually duplicate the files used in the same apps, on multiple accounts on a single ChromeBook? (On a naive analysis, It would seem to be &quot;Possibl so.&quot;)" ID="Freemind_Link_369"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="smiley-neutral"/>
+<node TEXT="Question: Does ChromeOS actually duplicate the files used in the same apps, on multiple accounts on a single ChromeBook? (On a naive analysis, It would seem to be &quot;Possibl so.&quot;)" ID="Freemind_Link_391"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="smiley-neutral"/>
 <icon BUILTIN="messagebox_warning"/>
-<attribute NAME="Callout" VALUE="{-212, 1614}"/><node TEXT="Advantage, if so: Easier administration for multi-user scenarios" ID="Freemind_Link_370"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="help"/>
+<attribute NAME="Callout" VALUE="{-212, 1614}"/><node TEXT="Advantage, if so: Easier administration for multi-user scenarios" ID="Freemind_Link_392"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="help"/>
 </node>
-<node TEXT="Disadvantages, if so" ID="Freemind_Link_371"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Duplicates files across user accounts" ID="Freemind_Link_372"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-target"/>
-<node TEXT="Mitigated by the relatively small filesystem footprint of most Chrome apps" ID="Freemind_Link_373"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-hand-thumb-up"/>
+<node TEXT="Disadvantages, if so" ID="Freemind_Link_393"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Duplicates files across user accounts" ID="Freemind_Link_394"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-target"/>
+<node TEXT="Mitigated by the relatively small filesystem footprint of most Chrome apps" ID="Freemind_Link_395"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-hand-thumb-up"/>
 </node>
 </node>
-<node TEXT="May require that the apps would be updated &#x2013; in effect &#x2013; multiple times, on each separate user account &#10;(Further details may be available from Chromebook product support)" ID="Freemind_Link_374"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-target"/>
-<node TEXT="TO DO: Contact Chromebook product support, about this possible user-oriented concern. (?)&#10;&#10;Alternately, inquire via ChromiumOS developer community forums, with regards to any ideas for how an &quot;Update once&quot; model could be implemented (i.e shared app resources, similar to shared LibC libraries?)" ID="Freemind_Link_375"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><font BOLD="false" ITALIC="false" SIZE="14"/><icon BUILTIN="messagebox_warning"/>
+<node TEXT="May require that the apps would be updated &#x2013; in effect &#x2013; multiple times, on each separate user account &#10;(Further details may be available from Chromebook product support)" ID="Freemind_Link_396"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-target"/>
+<node TEXT="TO DO: Contact Chromebook product support, about this possible user-oriented concern. (?)&#10;&#10;Alternately, inquire via ChromiumOS developer community forums, with regards to any ideas for how an &quot;Update once&quot; model could be implemented (i.e shared app resources, similar to shared LibC libraries?)" ID="Freemind_Link_397"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><font BOLD="false" ITALIC="false" SIZE="14"/><icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="itmz-icon-flash"/>
 <attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/><attribute NAME="Callout" VALUE="{-6, 198}"/></node>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="Developing on a Chromebook" ID="Freemind_Link_376"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="ChromeOS Developer Mode" ID="Freemind_Link_474"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Developing on a Chromebook" ID="Freemind_Link_398"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="ChromeOS Developer Mode" ID="Freemind_Link_399"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="pencil"/>
-<node TEXT="Use case: Installing Crouton" ID="Freemind_Link_475"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Use case: Installing Crouton" ID="Freemind_Link_400"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-flash"/>
-<node TEXT="To do: Install Crouton" ID="Freemind_Link_478"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/></node>
+<node TEXT="To do: Install Crouton" ID="Freemind_Link_401"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/></node>
 </node>
-<node TEXT="To do: Add documentation links" ID="Freemind_Link_476"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="To do: Add documentation links" ID="Freemind_Link_402"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="ChromiumOS" ID="Freemind_Link_377"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="ChromiumOS" ID="Freemind_Link_403"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-desktop"/>
-<node TEXT="ChromiumOS &#x2013; Documentation" ID="Freemind_Link_378" LINK="http://www.chromium.org/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="&#x2026;" ID="Freemind_Link_428"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Supported platforms (development)" ID="Freemind_Link_479" LINK="http://www.chromium.org/chromium-os/getting-dev-hardware/dev-hardware-list"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="ChromiumOS &#x2013; Documentation" ID="Freemind_Link_404" LINK="http://www.chromium.org/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="&#x2026;" ID="Freemind_Link_405"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Supported platforms (development)" ID="Freemind_Link_406" LINK="http://www.chromium.org/chromium-os/getting-dev-hardware/dev-hardware-list"  COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="Intel XDK" ID="Freemind_Link_379" LINK="http://xdk-software.intel.com/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="Intel XDK" ID="Freemind_Link_407" LINK="http://xdk-software.intel.com/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-desktop"/>
-<node TEXT="IDE for cross-platform mobile app development" ID="Freemind_Link_380"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Installation" ID="Freemind_Link_421"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="IDE Platform PC" ID="Freemind_Link_424"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Second PC" ID="Freemind_Link_422"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Chromebook with Crouton or CrUbunut" ID="Freemind_Link_423"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="IDE for cross-platform mobile app development" ID="Freemind_Link_408"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Installation" ID="Freemind_Link_409"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="IDE Platform PC" ID="Freemind_Link_410"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Second PC" ID="Freemind_Link_411"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Chromebook with Crouton or CrUbunut" ID="Freemind_Link_412"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
-<node TEXT="Refer to XDK documentation at web site at link" ID="Freemind_Link_426"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Refer to XDK documentation at web site at link" ID="Freemind_Link_413"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
-<node TEXT="Google App Store is one available app distribution site, within the Intel XDK" ID="Freemind_Link_381"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Architecture concepts" ID="Freemind_Link_382"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Web-based mobile applications" ID="Freemind_Link_383"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Needs web server to implement and publish functionality required for mobile application clients and the clients' mobile devices " ID="Freemind_Link_384"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="Primary portion of app logic and presentation code is installed on the web server" ID="Freemind_Link_385"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Google App Store is one available app distribution site, within the Intel XDK" ID="Freemind_Link_414"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Architecture concepts" ID="Freemind_Link_415"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Web-based mobile applications" ID="Freemind_Link_416"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Needs web server to implement and publish functionality required for mobile application clients and the clients' mobile devices " ID="Freemind_Link_417"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Primary portion of app logic and presentation code is installed on the web server" ID="Freemind_Link_418"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
-<node TEXT="Client-local mobile applications " ID="Freemind_Link_386"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="May use web-based functionality" ID="Freemind_Link_387"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="cf." ID="Freemind_Link_406"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="AJAX" ID="Freemind_Link_407"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="JSON" ID="Freemind_Link_409"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
-<node TEXT="jQuery" ID="Freemind_Link_438"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Data structures" ID="Freemind_Link_439"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Client-local mobile applications " ID="Freemind_Link_419"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="May use web-based functionality" ID="Freemind_Link_420"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="cf." ID="Freemind_Link_421"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="AJAX" ID="Freemind_Link_422"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="JSON" ID="Freemind_Link_423"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="jQuery" ID="Freemind_Link_424"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Data structures" ID="Freemind_Link_425"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
 </node>
 </node>
-<node TEXT="App may be designed as to support offline use" ID="Freemind_Link_388"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Offline data storage: HTML5 IndexedDB" ID="Freemind_Link_389"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-data"/>
-<node TEXT="cf: Green, Ido. Migrating your WebSQL DB to IndexedDB. HTML5 Rocks. 2011" ID="Freemind_Link_390" LINK="http://www.html5rocks.com/en/tutorials/webdatabase/websql-indexeddb/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-earth"/>
+<node TEXT="App may be designed as to support offline use" ID="Freemind_Link_426"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><node TEXT="Offline data storage: HTML5 IndexedDB" ID="Freemind_Link_427"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-data"/>
+<node TEXT="cf: Green, Ido. Migrating your WebSQL DB to IndexedDB. HTML5 Rocks. 2011" ID="Freemind_Link_428" LINK="http://www.html5rocks.com/en/tutorials/webdatabase/websql-indexeddb/"  COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-earth"/>
 <icon BUILTIN="itmz-icon-document"/>
 </node>
 </node>
 </node>
-<node TEXT="Primary portion of app logic and presentation code is installed on the thin client device" ID="Freemind_Link_391"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
+<node TEXT="Primary portion of app logic and presentation code is installed on the thin client device" ID="Freemind_Link_429"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /></node>
 </node>
 </node>
-<node TEXT="APIs: Refer to Intel XDK documentation, available via the Intel XDK web site and other normative reference resources online" ID="Freemind_Link_411"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="APIs: Refer to Intel XDK documentation, available via the Intel XDK web site and other normative reference resources online" ID="Freemind_Link_430"   COLOR="#000000" BACKGROUND_COLOR="#B2B2FE" STYLE="bubble" ><edge COLOR="#B2B2FE" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-questionmark"/>
 </node>
-<node TEXT="&#x2026;" ID="Freemind_Link_429"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="App idea: Simple JCR repository browser" ID="Freemind_Link_443"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
+<node TEXT="&#x2026;" ID="Freemind_Link_431"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="App idea: Simple JCR repository browser" ID="Freemind_Link_432"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-gear"/>
 <icon BUILTIN="itmz-icon-flash"/>
-<attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/><node TEXT="JCR 2.0" ID="Freemind_Link_444"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="ModeShape" ID="Freemind_Link_445"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="cf. ModeShape Hook projects for Liferay platform" ID="Freemind_Link_449"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="yes"/>
-<icon BUILTIN="itmz-icon-flash"/>
-</node>
-<node TEXT="alternately cf. Red Hat OpenShift" ID="Freemind_Link_450"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-</node>
-<node TEXT="User framework" ID="Freemind_Link_446"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="cf. Liferay" ID="Freemind_Link_448"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><arrowlink COLOR="#B24747" DESTINATION="Freemind_Link_449" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_509" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
-</node>
-<node TEXT="Node-type rendering extensions for app" ID="Freemind_Link_447"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Use case 1: JCR workspace as wiki-like resource" ID="Freemind_Link_452"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="idea"/>
+<attribute NAME="Start" VALUE="Mar 3, 2014"/><attribute NAME="Progress" VALUE="0"/><node TEXT="JCR 2.0" ID="Freemind_Link_433"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="ModeShape" ID="Freemind_Link_434"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="cf. ModeShape Hook projects for Liferay platform" ID="Freemind_Link_435"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="yes"/>
 <icon BUILTIN="itmz-icon-flash"/>
 </node>
-<node TEXT="Use case 2: JCR4EDA browser" ID="Freemind_Link_453"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="xmag"/>
-<node TEXT="Mobile tools in EDA design workflow: ?" ID="Freemind_Link_454"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="help"/>
-<node TEXT="See also: DIY electronics" ID="Freemind_Link_455"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Arduino" ID="Freemind_Link_456"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Raspberry Pi" ID="Freemind_Link_457"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="FPGA breakout boards for Arduino" ID="Freemind_Link_458"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Advanced electrical engineering prototypes and applications" ID="Freemind_Link_471"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="alternately cf. Red Hat OpenShift" ID="Freemind_Link_436"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="&#x2026;" ID="Freemind_Link_459"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="User framework" ID="Freemind_Link_437"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="cf. Liferay" ID="Freemind_Link_438"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><arrowlink COLOR="#B24747" DESTINATION="Freemind_Link_435" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_467" STARTARROW="None" STARTINCLINATION="22;0;" SOURCE_LABEL="" MIDDLE_LABEL="" TARGET_LABEL="" /></node>
+</node>
+<node TEXT="Node-type rendering extensions for app" ID="Freemind_Link_439"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Use case 1: JCR workspace as wiki-like resource" ID="Freemind_Link_440"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="idea"/>
+<icon BUILTIN="itmz-icon-flash"/>
+</node>
+<node TEXT="Use case 2: JCR4EDA browser" ID="Freemind_Link_441"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="xmag"/>
+<node TEXT="Mobile tools in EDA design workflow: ?" ID="Freemind_Link_442"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="help"/>
+<node TEXT="See also: DIY electronics" ID="Freemind_Link_443"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Arduino" ID="Freemind_Link_444"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Raspberry Pi" ID="Freemind_Link_445"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="FPGA breakout boards for Arduino" ID="Freemind_Link_446"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><node TEXT="Advanced electrical engineering prototypes and applications" ID="Freemind_Link_447"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+</node>
+<node TEXT="&#x2026;" ID="Freemind_Link_448"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
 </node>
 </node>
-<node TEXT="Use case 3: Privately available demographics browser for campaigns to governmental offices" ID="Freemind_Link_460"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-fire"/>
+<node TEXT="Use case 3: Privately available demographics browser for campaigns to governmental offices" ID="Freemind_Link_449"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-fire"/>
 <icon BUILTIN="idea"/>
-<node TEXT="The &quot;privately available&quot; part of the concept may not win fans in the FOSS developer market" ID="Freemind_Link_462"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-fire"/>
+<node TEXT="The &quot;privately available&quot; part of the concept may not win fans in the FOSS developer market" ID="Freemind_Link_450"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-fire"/>
 <icon BUILTIN="itmz-icon-earth"/>
-<node TEXT="FOSS vs Proprietary licensing &#x2013; Ethical concerns" ID="Freemind_Link_468"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Liberal community views" ID="Freemind_Link_469"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
-<node TEXT="Emergent social networking trends" ID="Freemind_Link_470"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="FOSS vs Proprietary licensing &#x2013; Ethical concerns" ID="Freemind_Link_451"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Liberal community views" ID="Freemind_Link_452"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Emergent social networking trends" ID="Freemind_Link_453"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="Demographics data may not be the best topic to cover in a public AppStore app" ID="Freemind_Link_463"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="group"/>
-<node TEXT="Namely, considering demographics about ethnic groups, in light of &quot;boundary case&quot; phenomena of social and racial prejudice and abuses" ID="Freemind_Link_466"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
+<node TEXT="Demographics data may not be the best topic to cover in a public AppStore app" ID="Freemind_Link_454"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="group"/>
+<node TEXT="Namely, considering demographics about ethnic groups, in light of &quot;boundary case&quot; phenomena of social and racial prejudice and abuses" ID="Freemind_Link_455"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /></node>
 </node>
-<node TEXT="May need a &quot;broader picture&quot; frame of view" ID="Freemind_Link_464"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
+<node TEXT="May need a &quot;broader picture&quot; frame of view" ID="Freemind_Link_456"   COLOR="#000000" BACKGROUND_COLOR="#FFD9B2" STYLE="bubble" ><edge COLOR="#FFD9B2" /><icon BUILTIN="itmz-icon-flash"/>
 <icon BUILTIN="yes"/>
 </node>
 </node>
