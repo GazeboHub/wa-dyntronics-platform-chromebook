@@ -1,0 +1,3 @@
+[submodule "tree/os/chromiumos/platform2"]
+	path = tree/os/chromiumos/platform2
+	url = https://chromium.googlesource.com/chromiumos/platform2/
